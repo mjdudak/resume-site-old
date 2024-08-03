@@ -1,0 +1,21 @@
+title: Matthew Dudak
+url: "https://mjdudak.com"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Projects"
+   link: "projects"
+
+
